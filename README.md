@@ -1,4 +1,5 @@
-📘 Course Problem Solutions Repository
+📘 Course Problem Solutions Repository.
+
 This repository contains solutions to problems tackled during the Programming Fundamentals course, focused on developing skills in Python.
 
 🧠 Topics Covered
