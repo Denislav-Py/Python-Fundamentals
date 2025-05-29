@@ -6,3 +6,5 @@ This repository contains solutions to problems tackled during the Programming Fu
 1. Basic Syntax, Conditional Statements and Loops
 
 2. Data Types and Variables
+
+3. Lists
