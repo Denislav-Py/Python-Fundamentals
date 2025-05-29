@@ -7,12 +7,12 @@
 
 number_of_inputs = 3
 
-string_list = []
+string_list = [] # Empty list to collect all the input
 
 for string in range(number_of_inputs):
     current_input = input()
-    string_list.append(current_input)
+    string_list.append(current_input)    # Add each input as a list item
 
-string_list[0], string_list[2] = string_list[2], string_list[0]
+string_list[0], string_list[2] = string_list[2], string_list[0]     # Re-order the list items according to the conditions given
 
 print(string_list)
