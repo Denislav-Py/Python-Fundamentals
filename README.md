@@ -8,3 +8,5 @@ This repository contains solutions to problems tackled during the Programming Fu
 2. Data Types and Variables
 
 3. Lists
+
+4. Functions
