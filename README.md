@@ -10,3 +10,5 @@ This repository contains solutions to problems tackled during the Programming Fu
 3. Lists
 
 4. Functions
+
+5. Classes and Objects
