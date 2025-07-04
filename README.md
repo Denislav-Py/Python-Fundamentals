@@ -12,3 +12,5 @@ This repository contains solutions to problems tackled during the Programming Fu
 4. Functions
 
 5. Classes and Objects
+
+6. Dictionaries
