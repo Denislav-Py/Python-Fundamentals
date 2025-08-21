@@ -14,3 +14,5 @@ This repository contains solutions to problems tackled during the Programming Fu
 5. Classes and Objects
 
 6. Dictionaries
+
+7. Regular Expressions
